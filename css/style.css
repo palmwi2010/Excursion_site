@@ -40,6 +40,10 @@ p {
     display: block;
 }
 
+.download-link:hover {
+    color:darkgreen;
+}
+
 .menu-header {
     height:40px;
     background-color: aquamarine;
@@ -60,6 +64,10 @@ p {
     font-weight: 700;
     background-color: white;
     border-radius: 10px;
+}
+
+.menu-item:hover {
+    background-color: grey;
 }
 
 .menu-link {
